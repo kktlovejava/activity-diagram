@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T04:20:54.440Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="JuLVHPmpct1iVEu122J1" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-19T04:23:47.042Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="bDqnCMLTIO4bOK_YDw2q" version="13.6.3" type="github">
   <diagram id="7yjRWW18TopECOTiOZpv" name="Page-1">
     <mxGraphModel dx="2889" dy="2281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="ZRiadKFRoifYePKm0Q-s-34" value="" style="line;strokeWidth=1;direction=south;html=1;" parent="ZRiadKFRoifYePKm0Q-s-80" vertex="1">
           <mxGeometry x="369" y="40.77" width="10" height="709.23" as="geometry" />
         </mxCell>
-        <mxCell id="ZRiadKFRoifYePKm0Q-s-35" value="템플릿 관리 조회" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" parent="ZRiadKFRoifYePKm0Q-s-80" vertex="1">
+        <mxCell id="ZRiadKFRoifYePKm0Q-s-35" value="산출물 관리 조회" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" parent="ZRiadKFRoifYePKm0Q-s-80" vertex="1">
           <mxGeometry x="324" width="100" height="47.96363105540841" as="geometry" />
         </mxCell>
         <mxCell id="ZRiadKFRoifYePKm0Q-s-40" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=terminate;strokeWidth=1;fontSize=16;" parent="ZRiadKFRoifYePKm0Q-s-80" vertex="1">
