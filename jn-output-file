@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T04:38:19.078Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="udg_UpK1UBxA0vaPd_58" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-19T04:46:23.481Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="9tbmexHLueRfXhZwXhQW" version="13.6.3" type="github">
   <diagram id="U1amcxXhweUYckeQSOTA" name="Page-1">
     <mxGraphModel dx="2889" dy="2281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nY-B9NppBEqQxHwzuQUx-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-450" y="-960" width="780.0000000000001" height="750" as="geometry" />
+          <mxGeometry x="-450" y="-960" width="780.0000000000001" height="800" as="geometry" />
         </mxCell>
         <mxCell id="nY-B9NppBEqQxHwzuQUx-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="nY-B9NppBEqQxHwzuQUx-32">
-          <mxGeometry width="780.0000000000001" height="750" as="geometry" />
+          <mxGeometry width="780" height="760" as="geometry" />
         </mxCell>
         <mxCell id="nY-B9NppBEqQxHwzuQUx-34" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="nY-B9NppBEqQxHwzuQUx-32">
           <mxGeometry y="32.37545096240068" width="780.0000000000001" height="11.990907763852103" as="geometry" />
@@ -72,7 +72,7 @@
           <mxGeometry x="431.0526315789474" y="289.99563510103644" width="102.63157894736842" height="47.96363105540841" as="geometry" />
         </mxCell>
         <mxCell id="nY-B9NppBEqQxHwzuQUx-50" value="완료" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="nY-B9NppBEqQxHwzuQUx-32">
-          <mxGeometry x="138.55263157894737" y="680.0005859904488" width="102.63157894736842" height="47.96363105540841" as="geometry" />
+          <mxGeometry x="138.55263157894737" y="716.9505859904489" width="102.63157894736842" height="47.96363105540841" as="geometry" />
         </mxCell>
         <mxCell id="nY-B9NppBEqQxHwzuQUx-51" value="산출물 공개권한" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="nY-B9NppBEqQxHwzuQUx-32">
           <mxGeometry x="533.6842105263158" y="200.42194092827" width="102.63157894736842" height="52.74261603375526" as="geometry" />
