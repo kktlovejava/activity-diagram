@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T06:21:26.102Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="2Il1FmNPb9IXMi39DeCB" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-19T06:22:34.416Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="39OedNm6XWBZYkWagjZ3" version="13.6.3" type="github">
   <diagram id="ogtGj6XB7urQX8H7d-n_" name="Page-1">
     <mxGraphModel dx="2889" dy="2330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,10 +79,10 @@
         <mxCell id="yzW2ZF5BNX52xn47eSrK-105" value="파일 추가적 업로드 불가,&amp;nbsp;&lt;br&gt;삭제 불가, 교체만 가능" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="yzW2ZF5BNX52xn47eSrK-100">
           <mxGeometry x="280" y="289.99805907173004" width="150" height="52.74" as="geometry" />
         </mxCell>
-        <mxCell id="yzW2ZF5BNX52xn47eSrK-106" value="그룹단위의 일감 레벨 별&lt;br&gt;&amp;nbsp;파일 일괄 다운로드" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="yzW2ZF5BNX52xn47eSrK-100">
+        <mxCell id="yzW2ZF5BNX52xn47eSrK-106" value="그룹단위의 일감 레벨 별&lt;br&gt;&amp;nbsp;파일 일괄 다운로드 가능" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="yzW2ZF5BNX52xn47eSrK-100">
           <mxGeometry x="280" y="380.99805907173004" width="150" height="52.74" as="geometry" />
         </mxCell>
-        <mxCell id="yzW2ZF5BNX52xn47eSrK-107" value="사용자는 산출물 ID 수정 불가&lt;br&gt;시스템이 체번" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="yzW2ZF5BNX52xn47eSrK-100">
+        <mxCell id="yzW2ZF5BNX52xn47eSrK-107" value="사용자는 산출물 ID &lt;br&gt;수정 불가&lt;br&gt;시스템이 체번" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="yzW2ZF5BNX52xn47eSrK-100">
           <mxGeometry x="80" y="380.99805907173004" width="150" height="52.74" as="geometry" />
         </mxCell>
         <mxCell id="yzW2ZF5BNX52xn47eSrK-108" value="파일 데이터" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="yzW2ZF5BNX52xn47eSrK-100">
