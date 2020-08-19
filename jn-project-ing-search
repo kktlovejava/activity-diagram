@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T07:09:28.601Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="s7qRbXK2_UZLf_FJc7p4" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-19T07:10:53.393Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="ZqSrJX3aKQa7_SU5AagE" version="13.6.3" type="github">
   <diagram id="B04ot3osmH6Wo2-JQ1Om" name="Page-1">
     <mxGraphModel dx="2889" dy="2330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="rIMHxboX2dwJlOfkv2nm-132" value="기술치 표시" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-130" y="-610" width="150" height="52.74" as="geometry" />
         </mxCell>
-        <mxCell id="rIMHxboX2dwJlOfkv2nm-135" value="계획실적 표시" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rIMHxboX2dwJlOfkv2nm-135" value="계획실적 표시&lt;br&gt;(실적관리기준에 따른 sort)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-130" y="-519" width="150" height="52.74" as="geometry" />
         </mxCell>
         <mxCell id="rIMHxboX2dwJlOfkv2nm-136" value="검증" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
