@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T07:14:39.098Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="JjMhDwpeorZc3S_nu-iu" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-19T07:17:36.302Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="rzJorAgyJsDy204fyunr" version="13.6.3" type="github">
   <diagram id="bb3VyzrDJ9mv-y_5qugW" name="Page-1">
     <mxGraphModel dx="2889" dy="2330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
         <mxCell id="-B799HHvdfDPsX2YTmFl-51" value="첨부파일 존재 여부" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="-B799HHvdfDPsX2YTmFl-48">
           <mxGeometry x="180" y="61.7901502165314" width="150" height="52.74261603375526" as="geometry" />
         </mxCell>
-        <mxCell id="-B799HHvdfDPsX2YTmFl-52" value="프로젝트 WBS에서 선택 된&lt;br&gt;일감에 맞는 데이터 조회" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="-B799HHvdfDPsX2YTmFl-48">
+        <mxCell id="-B799HHvdfDPsX2YTmFl-52" value="산출물 존재 여부" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="-B799HHvdfDPsX2YTmFl-48">
           <mxGeometry x="4" y="61.78820928826144" width="150" height="52.74" as="geometry" />
         </mxCell>
         <mxCell id="-B799HHvdfDPsX2YTmFl-53" value="의견 및 처리이력 여부" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="-B799HHvdfDPsX2YTmFl-48">
