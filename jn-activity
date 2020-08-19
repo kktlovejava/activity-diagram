@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T02:05:04.022Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="FnjjFh-vzyKdN9w8DwzI" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-19T02:09:27.856Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="mTCDItV63mKzDkICUPrd" version="13.6.3" type="github">
   <diagram id="7yjRWW18TopECOTiOZpv" name="Page-1">
     <mxGraphModel dx="2889" dy="2281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="CD1cFH0pvg2VEUqmbl2D-51" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;fillColor=#000000;" parent="CD1cFH0pvg2VEUqmbl2D-44" vertex="1">
           <mxGeometry x="160" y="77" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CD1cFH0pvg2VEUqmbl2D-52" value="사용자" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" parent="CD1cFH0pvg2VEUqmbl2D-44" vertex="1">
+        <mxCell id="CD1cFH0pvg2VEUqmbl2D-52" value="사용자(PM, PL)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" parent="CD1cFH0pvg2VEUqmbl2D-44" vertex="1">
           <mxGeometry x="135" y="29" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CD1cFH0pvg2VEUqmbl2D-53" value="시스템" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" parent="CD1cFH0pvg2VEUqmbl2D-44" vertex="1">
@@ -125,7 +125,7 @@
         <mxCell id="ZRiadKFRoifYePKm0Q-s-41" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;fillColor=#000000;" parent="ZRiadKFRoifYePKm0Q-s-80" vertex="1">
           <mxGeometry x="160" y="77" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZRiadKFRoifYePKm0Q-s-42" value="사용자" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" parent="ZRiadKFRoifYePKm0Q-s-80" vertex="1">
+        <mxCell id="ZRiadKFRoifYePKm0Q-s-42" value="사용자(PM, PL)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" parent="ZRiadKFRoifYePKm0Q-s-80" vertex="1">
           <mxGeometry x="135" y="29" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZRiadKFRoifYePKm0Q-s-43" value="시스템" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" parent="ZRiadKFRoifYePKm0Q-s-80" vertex="1">
