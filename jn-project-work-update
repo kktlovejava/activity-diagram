@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T07:27:30.345Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="Vad1M-QJQU-32zX3s7sG" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-19T07:29:48.729Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="I2rOD5oSPoo7MC0zGHQi" version="13.6.3" type="github">
   <diagram id="Alqu10QkqFhmcop0cVjW" name="Page-1">
     <mxGraphModel dx="2889" dy="2330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,12 +46,13 @@
         <mxCell id="iL5-7-E05NEZQNDNFZ2J-39" value="일감 수정" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-430" y="-120.00186953892353" width="100" height="47.96363105540841" as="geometry" />
         </mxCell>
-        <mxCell id="iL5-7-E05NEZQNDNFZ2J-40" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.512;exitY=0.621;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="iL5-7-E05NEZQNDNFZ2J-37">
+        <mxCell id="iL5-7-E05NEZQNDNFZ2J-40" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.508;exitY=0.569;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iL5-7-E05NEZQNDNFZ2J-81" target="iL5-7-E05NEZQNDNFZ2J-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="196" y="369.65464999999995" as="sourcePoint" />
             <mxPoint x="45" y="524.4881596563298" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="196" y="520" />
+              <mxPoint x="140" y="368" />
+              <mxPoint x="140" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
