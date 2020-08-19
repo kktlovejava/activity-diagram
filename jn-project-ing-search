@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T07:29:15.252Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="ugSB0wcI1FA2arEyHmhJ" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-19T07:30:19.368Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="ruB8YRqoxodpQecRS3mL" version="13.6.3" type="github">
   <diagram id="B04ot3osmH6Wo2-JQ1Om" name="Page-1">
     <mxGraphModel dx="2889" dy="2330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rIMHxboX2dwJlOfkv2nm-94" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="-1057.53" width="960" height="757.53" as="geometry" />
+          <mxGeometry x="-560" y="-1057.53" width="960" height="797.53" as="geometry" />
         </mxCell>
         <mxCell id="rIMHxboX2dwJlOfkv2nm-95" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="1">
           <mxGeometry x="-560" y="-1027.62" width="960" height="11.99" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="-560" y="-991.65" width="960" height="11.99" as="geometry" />
         </mxCell>
         <mxCell id="rIMHxboX2dwJlOfkv2nm-97" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-191" y="-1019.23" width="10" height="709.23" as="geometry" />
+          <mxGeometry x="-191" y="-1019.23" width="10" height="759.23" as="geometry" />
         </mxCell>
         <mxCell id="rIMHxboX2dwJlOfkv2nm-98" value="프로젝트 WBS 조회" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-130" y="-1060" width="100" height="47.96363105540841" as="geometry" />
@@ -38,10 +38,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rIMHxboX2dwJlOfkv2nm-104" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=terminate;strokeWidth=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="-416.54359476987895" width="50" height="59.95453881926052" as="geometry" />
+          <mxGeometry x="-400" y="-380.00359476987893" width="50" height="59.95453881926052" as="geometry" />
         </mxCell>
         <mxCell id="rIMHxboX2dwJlOfkv2nm-105" value="조회결과 표시" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-425" y="-356.58941400955115" width="100" height="47.96363105540841" as="geometry" />
+          <mxGeometry x="-425" y="-320.0494140095511" width="100" height="47.96363105540841" as="geometry" />
         </mxCell>
         <mxCell id="rIMHxboX2dwJlOfkv2nm-106" value="프로젝트 WBS 조회" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-430" y="-900.0018695389235" width="100" height="47.96363105540841" as="geometry" />
@@ -51,7 +51,7 @@
             <mxPoint x="115" y="-420" as="sourcePoint" />
             <mxPoint x="40" y="-382.0518403436702" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="115" y="-387" />
+              <mxPoint x="115" y="-350" />
             </Array>
           </mxGeometry>
         </mxCell>
