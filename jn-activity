@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T04:08:51.946Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="-RJ4-DTl5nedOXoFnx9H" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-19T04:20:54.440Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="JuLVHPmpct1iVEu122J1" version="13.6.3" type="github">
   <diagram id="7yjRWW18TopECOTiOZpv" name="Page-1">
     <mxGraphModel dx="2889" dy="2281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
         <mxCell id="ZRiadKFRoifYePKm0Q-s-50" value="권한 없음" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" parent="ZRiadKFRoifYePKm0Q-s-80" vertex="1">
           <mxGeometry x="570" y="464.0481304610764" width="100" height="47.96363105540841" as="geometry" />
         </mxCell>
-        <mxCell id="ZRiadKFRoifYePKm0Q-s-51" value="사용불가" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" parent="ZRiadKFRoifYePKm0Q-s-80" vertex="1">
+        <mxCell id="ZRiadKFRoifYePKm0Q-s-51" value="조회 불가" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" parent="ZRiadKFRoifYePKm0Q-s-80" vertex="1">
           <mxGeometry x="520" y="631.9208391550059" width="100" height="47.96363105540841" as="geometry" />
         </mxCell>
         <mxCell id="ZRiadKFRoifYePKm0Q-s-52" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=16;fillColor=#FFFFFF;" parent="ZRiadKFRoifYePKm0Q-s-80" vertex="1">
@@ -74,7 +74,7 @@
         <mxCell id="ZRiadKFRoifYePKm0Q-s-58" value="권한 있음" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" parent="ZRiadKFRoifYePKm0Q-s-80" vertex="1">
           <mxGeometry x="420" y="274.2656351010364" width="100" height="47.96363105540841" as="geometry" />
         </mxCell>
-        <mxCell id="ZRiadKFRoifYePKm0Q-s-59" value="완료" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" parent="ZRiadKFRoifYePKm0Q-s-80" vertex="1">
+        <mxCell id="ZRiadKFRoifYePKm0Q-s-59" value="조회 완료" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" parent="ZRiadKFRoifYePKm0Q-s-80" vertex="1">
           <mxGeometry x="135" y="700.0005859904488" width="100" height="47.96363105540841" as="geometry" />
         </mxCell>
         <mxCell id="caMqyEZyijvsQcX_cyMr-8" value="권한 조회" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="ZRiadKFRoifYePKm0Q-s-80">
