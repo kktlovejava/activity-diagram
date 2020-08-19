@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T07:04:15.934Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="tjNtIwOMEnsctdOHCXjs" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-19T07:05:19.830Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="7BB2tSZCoImx7GAb8LvO" version="13.6.3" type="github">
   <diagram id="B04ot3osmH6Wo2-JQ1Om" name="Page-1">
     <mxGraphModel dx="2889" dy="2330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rIMHxboX2dwJlOfkv2nm-130" value="표시, 검증, 구성요소" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="rIMHxboX2dwJlOfkv2nm-130" value="표시사항, 구성요소, 데이터 검증 사항 확인" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="40" y="-899.99805907173" width="150" height="52.74261603375526" as="geometry" />
         </mxCell>
         <mxCell id="rIMHxboX2dwJlOfkv2nm-131" value="" style="endArrow=none;html=1;" edge="1" parent="1">
