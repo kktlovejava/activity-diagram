@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T06:16:24.077Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="9QIFXxX1unCReouIvzf4" version="13.6.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2020-08-20T06:16:43.709Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="qPscAJ1MVDPII441EgwP" version="13.6.3" type="github" pages="17">
   <diagram id="a6cK3YUWnYRlEZkpEMkg" name="산출물 관리 조회">
     <mxGraphModel dx="5370" dy="3450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -724,7 +724,7 @@
         <mxCell id="Gut6YwjVT1yBb25I5GWG-5" value="종료" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="xJwdpwJLdVFfkFKaTpVT-1">
           <mxGeometry x="1250" y="-1455" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Gut6YwjVT1yBb25I5GWG-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;저장&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="xJwdpwJLdVFfkFKaTpVT-1">
+        <mxCell id="Gut6YwjVT1yBb25I5GWG-6" value="&lt;span style=&quot;font-size: 15px&quot;&gt;삭제&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="xJwdpwJLdVFfkFKaTpVT-1">
           <mxGeometry x="1730" y="-2055" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Gut6YwjVT1yBb25I5GWG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xJwdpwJLdVFfkFKaTpVT-1" source="Gut6YwjVT1yBb25I5GWG-3" target="Gut6YwjVT1yBb25I5GWG-6">
@@ -735,7 +735,7 @@
             <mxPoint x="26" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gut6YwjVT1yBb25I5GWG-9" value="&lt;font style=&quot;font-size: 15px&quot;&gt;데이터 저장&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="xJwdpwJLdVFfkFKaTpVT-1">
+        <mxCell id="Gut6YwjVT1yBb25I5GWG-9" value="&lt;font style=&quot;font-size: 15px&quot;&gt;데이터 삭제&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="xJwdpwJLdVFfkFKaTpVT-1">
           <mxGeometry x="1988" y="-1440" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Gut6YwjVT1yBb25I5GWG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xJwdpwJLdVFfkFKaTpVT-1" source="Gut6YwjVT1yBb25I5GWG-11">
