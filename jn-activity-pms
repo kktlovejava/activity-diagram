@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T08:45:28.591Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="aRH7alFpLIFmlX1boiFS" version="13.6.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2020-08-20T08:46:21.059Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="Odf3OmoelFLprue8RQjx" version="13.6.3" type="github" pages="17">
   <diagram id="a6cK3YUWnYRlEZkpEMkg" name="산출물 관리 조회">
     <mxGraphModel dx="5370" dy="3450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -936,23 +936,23 @@
         <mxCell id="u23tw8qwtp-wLfGg67g6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="BGnG6KOA8XQnyzL_SN5z-1" source="u23tw8qwtp-wLfGg67g6-23" target="u23tw8qwtp-wLfGg67g6-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u23tw8qwtp-wLfGg67g6-22" value="&lt;span&gt;단계 설정 기능 사용 중&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="u23tw8qwtp-wLfGg67g6-21">
+        <mxCell id="u23tw8qwtp-wLfGg67g6-22" value="없음" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="u23tw8qwtp-wLfGg67g6-21">
           <mxGeometry x="-0.8049" relative="1" as="geometry">
-            <mxPoint x="-22" as="offset" />
+            <mxPoint x="36" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u23tw8qwtp-wLfGg67g6-23" value="&lt;span style=&quot;font-size: 15px&quot;&gt;기능 사용 체크&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="BGnG6KOA8XQnyzL_SN5z-1">
+        <mxCell id="u23tw8qwtp-wLfGg67g6-23" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 15px&quot;&gt;삭제 데이터&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="BGnG6KOA8XQnyzL_SN5z-1">
           <mxGeometry x="2090" y="-2016" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="u23tw8qwtp-wLfGg67g6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="BGnG6KOA8XQnyzL_SN5z-1" source="u23tw8qwtp-wLfGg67g6-26" target="u23tw8qwtp-wLfGg67g6-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u23tw8qwtp-wLfGg67g6-25" value="없음" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="u23tw8qwtp-wLfGg67g6-24">
+        <mxCell id="u23tw8qwtp-wLfGg67g6-25" value="&lt;span&gt;단계 설정 기능 사용 중&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="u23tw8qwtp-wLfGg67g6-24">
           <mxGeometry x="-0.865" y="-4" relative="1" as="geometry">
-            <mxPoint x="11" y="4" as="offset" />
+            <mxPoint x="-47" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u23tw8qwtp-wLfGg67g6-26" value="&lt;span style=&quot;font-size: 15px&quot;&gt;삭제 데이터&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="BGnG6KOA8XQnyzL_SN5z-1">
+        <mxCell id="u23tw8qwtp-wLfGg67g6-26" value="&lt;span style=&quot;font-size: 15px&quot;&gt;기능 사용 체크&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="BGnG6KOA8XQnyzL_SN5z-1">
           <mxGeometry x="2090" y="-1906" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
