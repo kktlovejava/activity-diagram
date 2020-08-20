@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T06:23:49.449Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="ROWASNkp_nA2wDo21oRl" version="13.6.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2020-08-20T06:56:03.099Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="eveP_3QWtjaPRNx_zwhy" version="13.6.3" type="github" pages="17">
   <diagram id="a6cK3YUWnYRlEZkpEMkg" name="산출물 관리 조회">
     <mxGraphModel dx="5370" dy="3450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1502,19 +1502,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vDsl5zo2tOaS_RM2BADN" name="일감 설정 삭제">
-    <mxGraphModel dx="1235" dy="3450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="3499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Vkg0X5w78c9YRa2KErPT-0" />
         <mxCell id="Vkg0X5w78c9YRa2KErPT-1" parent="Vkg0X5w78c9YRa2KErPT-0" />
-        <mxCell id="_5R7H5TTk8UHegiPNs76-0" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="Vkg0X5w78c9YRa2KErPT-1">
-          <mxGeometry x="1140" y="-2120" width="1020" height="810" as="geometry" />
-        </mxCell>
-        <mxCell id="_5R7H5TTk8UHegiPNs76-1" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" vertex="1" parent="Vkg0X5w78c9YRa2KErPT-1">
-          <mxGeometry x="1140" y="-2084.62" width="1020" height="11.99" as="geometry" />
-        </mxCell>
-        <mxCell id="_5R7H5TTk8UHegiPNs76-2" value="일감 설정 삭제" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="Vkg0X5w78c9YRa2KErPT-1">
-          <mxGeometry x="1600" y="-2120" width="100" height="47.96363105540841" as="geometry" />
-        </mxCell>
         <mxCell id="_5R7H5TTk8UHegiPNs76-3" value="&lt;span style=&quot;font-size: 15px&quot;&gt;키값 체크&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="Vkg0X5w78c9YRa2KErPT-1">
           <mxGeometry x="1978" y="-1835" width="150" height="90" as="geometry" />
         </mxCell>
