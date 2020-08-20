@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T08:52:29.327Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="246y0KdzVBpTe0q2JDL-" version="13.6.3" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2020-08-20T08:53:23.165Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="8IIoMCAy36_nvpE2EImr" version="13.6.3" type="github" pages="17">
   <diagram id="a6cK3YUWnYRlEZkpEMkg" name="산출물 관리 조회">
     <mxGraphModel dx="5370" dy="3450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
         <mxCell id="AndODSESXNxXQIu9PJEz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="7KNl1pN61rlTqT7DbUGk-1" source="AndODSESXNxXQIu9PJEz-35" target="AndODSESXNxXQIu9PJEz-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Eni704tderbSLnO0tTT-0" value="입력데이터" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="AndODSESXNxXQIu9PJEz-34">
+        <mxCell id="4Eni704tderbSLnO0tTT-0" value="입력 데이터" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="AndODSESXNxXQIu9PJEz-34">
           <mxGeometry x="-0.8383" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -453,6 +453,9 @@
         <mxCell id="nkqgXdY1ZRdjF_iIgmGo-23" value="&lt;span style=&quot;font-size: 15px&quot;&gt;필수값 체크&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="kUzsZg-1ApWX77QWjQ_l-1">
           <mxGeometry x="2090" y="-2006" width="150" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="qdtimAqjrkzQzNWuw_90-0" value="입력데이터" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="kUzsZg-1ApWX77QWjQ_l-1">
+          <mxGeometry x="1650" y="-2166" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -539,6 +542,9 @@
         </mxCell>
         <mxCell id="h4EnZaaO3hhPy-cqsweY-22" value="&lt;span style=&quot;font-size: 15px&quot;&gt;필수값 체크&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="au5A2tijj3gw-DoMmn0q-1">
           <mxGeometry x="2090" y="-2006" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zRueqzIxAxGdo2nJS28a-0" value="입력데이터" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="au5A2tijj3gw-DoMmn0q-1">
+          <mxGeometry x="1654" y="-2166" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -638,6 +644,9 @@
         </mxCell>
         <mxCell id="2KAi-emWlIOLvABwzIgS-25" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 15px&quot;&gt;코드 사용 체크&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="xJwdpwJLdVFfkFKaTpVT-1">
           <mxGeometry x="2090" y="-1906" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XoxyZ3vad9Bqnciid__A-0" value="입력데이터" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="xJwdpwJLdVFfkFKaTpVT-1">
+          <mxGeometry x="1654" y="-2166" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
