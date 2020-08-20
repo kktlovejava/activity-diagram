@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T02:29:18.914Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="tZBH5sV1k4iBmzkjQYOc" version="13.6.3" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-08-20T02:30:25.401Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="QScq8KdwmOT42ZnsYyTv" version="13.6.3" type="github" pages="13">
   <diagram id="a6cK3YUWnYRlEZkpEMkg" name="output-search">
     <mxGraphModel dx="5370" dy="3450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1155,14 +1155,16 @@
         <mxCell id="EOQwnZYW1mgTYeFLJ0Vj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BGnG6KOA8XQnyzL_SN5z-1" source="EOQwnZYW1mgTYeFLJ0Vj-29" target="EOQwnZYW1mgTYeFLJ0Vj-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EOQwnZYW1mgTYeFLJ0Vj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="BGnG6KOA8XQnyzL_SN5z-1" source="EOQwnZYW1mgTYeFLJ0Vj-29" target="EOQwnZYW1mgTYeFLJ0Vj-21">
+        <mxCell id="iGaYhycWGPAaETs7Qacr-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BGnG6KOA8XQnyzL_SN5z-1" source="EOQwnZYW1mgTYeFLJ0Vj-29" target="EOQwnZYW1mgTYeFLJ0Vj-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EOQwnZYW1mgTYeFLJ0Vj-29" value="&lt;span style=&quot;font-size: 15px&quot;&gt;프로젝트 체크&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="BGnG6KOA8XQnyzL_SN5z-1">
+        <mxCell id="EOQwnZYW1mgTYeFLJ0Vj-29" value="&lt;span style=&quot;font-size: 15px&quot;&gt;기능 사용 체크&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="BGnG6KOA8XQnyzL_SN5z-1">
           <mxGeometry x="2010" y="-1870" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="EOQwnZYW1mgTYeFLJ0Vj-30" value="사용중인 프로젝트 존재" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="BGnG6KOA8XQnyzL_SN5z-1">
-          <mxGeometry x="1930" y="-1825" as="geometry" />
+        <mxCell id="EOQwnZYW1mgTYeFLJ0Vj-30" value="사용" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;rotation=0;" vertex="1" connectable="0" parent="BGnG6KOA8XQnyzL_SN5z-1">
+          <mxGeometry x="1990" y="-1825" as="geometry">
+            <mxPoint x="-5" y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
