@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T02:27:07.121Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="VjXUCErHXDRwen883dcD" version="13.6.3" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-08-20T02:27:39.036Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="tlXt1covemDakqtq2H8D" version="13.6.3" type="github" pages="12">
   <diagram id="a6cK3YUWnYRlEZkpEMkg" name="output-search">
     <mxGraphModel dx="5370" dy="3450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1041,7 +1041,7 @@
         <mxCell id="pqWn8phcaZs5OLsT-BXW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="r0R9QYJ57F1xTF1XrzKT-1" source="pqWn8phcaZs5OLsT-BXW-0" target="4uWLaOHNo9RxGGm3flCF-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pqWn8phcaZs5OLsT-BXW-0" value="&lt;span style=&quot;font-size: 15px&quot;&gt;다른 기능 사용여부&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="r0R9QYJ57F1xTF1XrzKT-1">
+        <mxCell id="pqWn8phcaZs5OLsT-BXW-0" value="&lt;span style=&quot;font-size: 15px&quot;&gt;기능 사용 체크&lt;/span&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="r0R9QYJ57F1xTF1XrzKT-1">
           <mxGeometry x="1931" y="-1870" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pqWn8phcaZs5OLsT-BXW-3" value="사용" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="r0R9QYJ57F1xTF1XrzKT-1">
